@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>it.java.jaxb</groupId>
-	<artifactId>JAXB</artifactId>
+	<artifactId>JAXBMarshall-JAXBUnMarshall</artifactId>
 	<version>1.00-SNAPSHOT</version>
 	<name>JAXB</name>
 
